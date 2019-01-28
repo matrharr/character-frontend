@@ -6,7 +6,7 @@ A frontend app that lists characters pulled from Web APIs.
 ## VanillaJS
 - Simply open `vanillaJS/index.html` in your browser.
 
-### ReactJS
+## ReactJS
 
 - `npm install`.
 - `npm run start`.
