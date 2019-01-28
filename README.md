@@ -1,7 +1,14 @@
 # Character Frontend App
-A frontend app that lists characters pulled from Web APIs
+A frontend app that lists characters pulled from Web APIs.
 
 # Getting Started
-`npm install`
-`npm run start`
+
+## VanillaJS
+- Simply open `vanillaJS/index.html` in your browser.
+
+### ReactJS
+
+- `npm install`.
+- `npm run start`.
+- Navigate your browser to `localhost:8080`.
 
